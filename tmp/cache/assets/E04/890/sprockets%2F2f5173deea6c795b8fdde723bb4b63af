@@ -1,0 +1,84 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1329816367.350022:@value{I"
+class:EFI"BundledAsset;
+FI"id;
+F"%8da7892f407062dbd5d231356ccd94f7I"logical_path;
+FI"application.js;
+TI"pathname;
+FI"0$root/app/assets/javascripts/application.js;
+FI"content_type;
+FI"application/javascript;
+FI"
+mtime;
+FI"2012-02-21T10:08:30+01:00;
+FI"	body;
+FI"”// This is a manifest file that'll be compiled into including all the files listed below.
+// Add new JavaScript/Coffee code in separate files in this directory and they'll automatically
+// be included in the compiled file accessible from http://example.com/assets/application.js
+// It's not advisable to add code directly here, but if you do, it'll appear at the bottom of the
+// the compiled file.
+//
+;
+;
+FI"asset_paths;
+F["f/home/daniel/.rvm/gems/ruby-1.9.3-p0/gems/jquery-rails-1.0.19/vendor/assets/javascripts/jquery.js"j/home/daniel/.rvm/gems/ruby-1.9.3-p0/gems/jquery-rails-1.0.19/vendor/assets/javascripts/jquery_ujs.jsI"0$root/app/assets/javascripts/demo.js.coffee;
+FI"1$root/app/assets/javascripts/pages.js.coffee;
+FI"4$root/app/assets/javascripts/sections.js.coffee;
+FI"4$root/app/assets/javascripts/subjects.js.coffee;
+FI"0$root/app/assets/javascripts/application.js;
+FI"dependency_paths;
+F[{I"	path;
+FI"0$root/app/assets/javascripts/application.js;
+FI"
+mtime;
+FIu:	TimeH€åÜ-w
+:@_zoneI"CET;
+T:nano_numi$:nano_deni:submicro"T€:offsetiI"hexdigest;
+F"%549ddbd6cc7eb5cac3ef01164f35f695{I"	path;
+FI"!$root/app/assets/javascripts;
+FI"
+mtime;
+FIu;©€kQî!
+;I"CET;
+T;ix;i;"7`;iI"hexdigest;
+F"%ef50a113d2936e3fb6b4e4bb7ae64241{I"	path;
+F"f/home/daniel/.rvm/gems/ruby-1.9.3-p0/gems/jquery-rails-1.0.19/vendor/assets/javascripts/jquery.jsI"
+mtime;
+FIu;ï€hÿtx
+;I"CET;
+T;iÂ;i;"– ;iI"hexdigest;
+F"%683679b346b30943f8589b640966202a{I"	path;
+F"j/home/daniel/.rvm/gems/ruby-1.9.3-p0/gems/jquery-rails-1.0.19/vendor/assets/javascripts/jquery_ujs.jsI"
+mtime;
+FIu;ï€ux
+;I"CET;
+T;iÂ;i;"– ;iI"hexdigest;
+F"%2caafa0c2617f9985c1a0b07ebaefadf{I"	path;
+FI"0$root/app/assets/javascripts/demo.js.coffee;
+FI"
+mtime;
+FIu;I€‘²§K
+;I"CET;
+T;i¯;i;"P;iI"hexdigest;
+F"%c12f0621e8cbf15a5c4dfa732f9f322a{I"	path;
+FI"1$root/app/assets/javascripts/pages.js.coffee;
+FI"
+mtime;
+FIu;©€ë×’!
+;I"CET;
+T;iñ;i;"$;iI"hexdigest;
+F"%c12f0621e8cbf15a5c4dfa732f9f322a{I"	path;
+FI"4$root/app/assets/javascripts/sections.js.coffee;
+FI"
+mtime;
+FIu;©€kQî!
+;I"CET;
+T;ix;i;"7`;iI"hexdigest;
+F"%c12f0621e8cbf15a5c4dfa732f9f322a{I"	path;
+FI"4$root/app/assets/javascripts/subjects.js.coffee;
+FI"
+mtime;
+FIu;©€ÊwÕ 
+;I"CET;
+T;iÊ;i;"—;iI"hexdigest;
+F"%c12f0621e8cbf15a5c4dfa732f9f322aI"_version;
+F"%46dde6621c301f4928e3b34efee9e3b5
